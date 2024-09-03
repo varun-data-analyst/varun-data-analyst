@@ -1,0 +1,12 @@
+# 💫 About Me:
+About Me<br>👋 Hello! I’m Varun, a passionate Data Analyst with a knack for turning raw data into actionable insights. My journey in data analytics has been driven by a fascination with uncovering patterns and solving complex problems through data.<br><br>What I Do<br>🔍 Data Analysis: I specialize in analyzing large datasets to identify trends and provide actionable recommendations. My toolkit includes Python, SQL, and Excel for data manipulation and statistical analysis.<br><br>📊 Data Visualization: I love transforming data into compelling visual stories. Using tools like Tableau and Power BI, I create dashboards and visualizations that make complex data easy to understand and communicate.<br><br>🛠️ Problem Solving: Whether it's optimizing business processes or investigating specific data-driven questions, I tackle challenges with a data-centric approach, ensuring that my solutions are both practical and impactful.<br><br>Projects<br>Here on GitHub, you'll find a variety of projects showcasing my skills.<br><br>Skills<br>Programming Languages: Python<br>Data Tools: SQL, Excel, Tableau, Power BI<br><br>Let’s Connect!<br>I’m always open to discussing data analytics, new projects, and potential collaborations. Feel free to drop me a message here on GitHub.<br><br>
+
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=varun-data-analyst&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=varun-data-analyst&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-data-analyst&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
